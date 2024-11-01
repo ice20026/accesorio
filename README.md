@@ -44,24 +44,24 @@
         <div class="item">
             <img src="1.jpg" alt="Descripción de la imagen 1">
             <h3></h3>
-            <p>llantas marca yamaha anti derrape  </p>
+            <p>visor de aceite </p>
         </div>
         <div class="item">
             <img src="2.jpg" alt="Descripción de la imagen 2">
             <h3> </h3>
-            <p>llantas de motocros marca serpentro</p>
+            <p>terminales para cables</p>
         </div>
         <div class="item">
             <img src="3.jpg" alt="Descripción de la imagen 3">
             <h3> </h3>
-            <p>llantas de moto deportiva bmw</p></div>
+            <p>filtro de gasolina de lujo </p></div>
         <div class="item">
             <img src="4.jpg" alt="Descripción de la imagen 3">
             <h3></h3>
-            <p>llantas de luki normal </p></div>
+            <p>perno de lujo  </p></div>
   <div class="item">
             <img src="5.jpg" alt="Descripción de la imagen 3">
-       <p>llantas anti derrape</p></div><body><html> 
+       <p>valvula con luces </p></div><body><html> 
             <h3></h3>
        
 
